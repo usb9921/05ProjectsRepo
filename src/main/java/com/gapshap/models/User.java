@@ -8,6 +8,7 @@ public class User {
 	private String email;
 	private String address;
 	private String eduction;
+	private String DOB;
 	
 	public User() {
 		super();
